@@ -1,4 +1,4 @@
-## SDF Worshop day 3
+## SDF Worshop day 3 -- Kenneth
 
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
